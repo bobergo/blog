@@ -1,0 +1,10 @@
+[submodule "my-blog/themes/DoIt"]
+	path = my-blog/themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
+[submodule "my-blog-3/themes/salinger"]
+	path = my-blog-3/themes/salinger
+	url = https://github.com/jacksalici/salinger-theme.git
+[submodule "my-blog/themes/blowfish"]
+	path = my-blog/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
