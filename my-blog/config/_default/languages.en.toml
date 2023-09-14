@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "迷途小书童"
 
 [params]
   displayName = "EN"
@@ -10,13 +10,13 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "迷途小书童's Blog."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Blowfish"
   image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  headline = "BBC powerful, lightweight theme for Hugo built with Tailwind CSS."
   bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   links = [
     { twitter = "https://twitter.com/burufugu" },
