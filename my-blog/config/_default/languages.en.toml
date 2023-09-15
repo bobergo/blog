@@ -1,4 +1,5 @@
 languageCode = "en"
+hasCJKLanguage = true 
 languageName = "English"
 weight = 1
 title = "迷途小书童"
@@ -7,21 +8,13 @@ title = "迷途小书童"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "Mon Jan 2 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
   description = "迷途小书童's Blog."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "BBC powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  links = [
-    { twitter = "https://twitter.com/burufugu" },
-    { mastodon = "https://masto.ai/@blowfish" },
-    { github = "https://github.com/nunocoracao/blowfish" },
-  ]
-
-  
+  name = "《临江仙·滚滚长江东逝水》"
+  #image = "img/blowfish_logo.png"
+  headline = "明·杨慎"  

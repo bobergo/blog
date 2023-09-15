@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["articles"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -29,7 +29,7 @@ smartTOCHideUnfocusedChildren = false
 
 [footer]
   showMenu = true
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -48,19 +48,19 @@ smartTOCHideUnfocusedChildren = false
 [article]
   showDate = true
   showViews = true
-  showLikes = true
+  showLikes = false
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
-  showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
-  editAppendPath = true
+  showEdit = false
+  #editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editAppendPath = false
   seriesOpened = false
-  showHeadingAnchors = true
+  showHeadingAnchors = false
   showPagination = true
   invertPagination = false
   showReadingTime = true
@@ -68,9 +68,9 @@ smartTOCHideUnfocusedChildren = false
   showRelatedContent = true
   relatedContentLimit = 6
   showTaxonomies = true 
-  showAuthorsBadges = true 
-  showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  showAuthorsBadges = false
+  showWordCount = true
+  #sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]
   showHero = true
