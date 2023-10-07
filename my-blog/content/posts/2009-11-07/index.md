@@ -14,3 +14,5 @@ draft: false
 我要一个精彩的生活，我记下Jenny的话“Run, Forrest Gump, just run.”
 
 也给自己立个传，呵，每天记下一些点滴，为自己加油。From now on!
+
+![](featured.png "")

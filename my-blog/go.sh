@@ -1,3 +1,4 @@
+set -x
 cd ../../bobergo.github.io
 git pull
 cd ../blog/my-blog
@@ -6,3 +7,4 @@ cd ../../bobergo.github.io
 git add .
 git ci -m $(date +"%Y-%m-%d")
 git push
+set +x
