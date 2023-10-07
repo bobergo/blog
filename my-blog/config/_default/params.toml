@@ -35,14 +35,14 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 12
+  showRecent = false
+  showRecentItems = 15
   showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -85,7 +85,7 @@ smartTOCHideUnfocusedChildren = false
   showCards = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]
@@ -110,7 +110,7 @@ smartTOCHideUnfocusedChildren = false
   showTableOfContents = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   
 #[firebase]
 #  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
