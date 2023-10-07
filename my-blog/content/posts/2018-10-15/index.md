@@ -1,6 +1,7 @@
 ---
 title: "贵阳的第N次"
 date: 2018-10-15
+tags: ["Days", "城市", "贵阳"]
 draft: false
 ---
 

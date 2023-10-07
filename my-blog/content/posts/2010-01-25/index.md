@@ -1,6 +1,7 @@
 ---
 title: 离开
 date: 2010-01-25
+tags: ["Days"]
 draft: false
 ---
 

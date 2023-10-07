@@ -1,6 +1,7 @@
 ---
 title: 目标和行动
 date: 2010-02-04
+tags: ["Days"]
 draft: false
 ---
 

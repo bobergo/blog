@@ -1,6 +1,7 @@
 ---
 title: 2009年11月12日
 date: 2009-11-12
+tags: ["Days"]
 draft: false
 ---
 

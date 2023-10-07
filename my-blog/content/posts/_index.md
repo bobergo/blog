@@ -13,6 +13,9 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
+showLikes : false
+showViews : false
 
 ---
 
+Here are all of the posts.

@@ -1,6 +1,7 @@
 ---
 title: Tomorrow
 date: 2009-11-15
+tags: ["Days"]
 draft: false
 ---
 

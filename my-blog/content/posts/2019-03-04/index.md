@@ -1,6 +1,7 @@
 ---
 title: 张仪的千古之骂之一
 date: 2019-03-04
+tags: ["Digests"]
 draft: false
 ---
 

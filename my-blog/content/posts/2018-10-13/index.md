@@ -1,6 +1,7 @@
 ---
 title: "橘子洲"
 date: 2018-10-13
+tags: ["Days"]
 draft: false
 ---
 

@@ -38,16 +38,16 @@ smartTOCHideUnfocusedChildren = false
   layout = "background" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 100
+  showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showLikes = false
   showDateUpdated = true
   showAuthor = false
@@ -112,14 +112,14 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
   
-[firebase]
-  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
-  authDomain = "blowfish-21fff.firebaseapp.com"
-  projectId = "blowfish-21fff"
-  storageBucket = "blowfish-21fff.appspot.com"
-  messagingSenderId = "60108104191"
-  appId = "1:60108104191:web:039842ebe1370698b487ca"
-  measurementId = "G-PEDMYR1V0K"
+#[firebase]
+#  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
+#  authDomain = "blowfish-21fff.firebaseapp.com"
+#  projectId = "blowfish-21fff"
+#  storageBucket = "blowfish-21fff.appspot.com"
+#  messagingSenderId = "60108104191"
+#  appId = "1:60108104191:web:039842ebe1370698b487ca"
+#  measurementId = "G-PEDMYR1V0K"
 
 [fathomAnalytics]
   # site = "ABC12345"

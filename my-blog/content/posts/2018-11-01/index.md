@@ -1,6 +1,7 @@
 ---
 title: "以后去哪儿"
 date: 2018-11-01
+tags: ["Days"]
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Sunday
 date: 2009-11-08
+tags: ["Days"]
 draft: false
 ---
 

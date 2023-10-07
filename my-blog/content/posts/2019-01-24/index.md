@@ -1,6 +1,7 @@
 ---
 title: 母亲的宿命
 date: 2019-01-24
+tags: ["亲人"]
 draft: false
 ---
 

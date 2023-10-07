@@ -1,6 +1,7 @@
 ---
 title: 关于昨天
 date: 2010-01-01
+tags: ["Days"]
 draft: false
 ---
 

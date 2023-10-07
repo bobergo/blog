@@ -1,6 +1,7 @@
 ---
 title: "北京"
 date: 2018-10-25
+tags: ["Days", "城市", "北京"]
 draft: false
 ---
 

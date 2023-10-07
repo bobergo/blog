@@ -1,6 +1,7 @@
 ---
 title: Job
 date: 2010-01-02
+tags: ["Days"]
 draft: false
 ---
 

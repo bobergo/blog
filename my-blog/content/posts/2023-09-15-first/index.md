@@ -1,6 +1,7 @@
 ---
 title: "First Blog with Hugo&Github"
 date: 2023-09-15
+tags: ["Days"]
 draft: false
 ---
 
