@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags - Tag - 迷途小书童</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>迷途小书童&#39;s Blog.</description>
+    <generator>Hugo 0.135.0 &amp; FixIt v0.3.13-95436c11</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cars</title>
+      <link>http://localhost:1313/tags/cars/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cars/</guid>
+      <description>Cars</description>
+    </item>
+    <item>
+      <title>小娃</title>
+      <link>http://localhost:1313/tags/%E5%B0%8F%E5%A8%83/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B0%8F%E5%A8%83/</guid>
+      <description>小娃</description>
+    </item>
+    <item>
+      <title>Days</title>
+      <link>http://localhost:1313/tags/days/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/days/</guid>
+      <description>Days</description>
+    </item>
+    <item>
+      <title>Digests</title>
+      <link>http://localhost:1313/tags/digests/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digests/</guid>
+      <description>Digests</description>
+    </item>
+    <item>
+      <title>Engg</title>
+      <link>http://localhost:1313/tags/engg/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/engg/</guid>
+      <description>Engg</description>
+    </item>
+    <item>
+      <title>亲人</title>
+      <link>http://localhost:1313/tags/%E4%BA%B2%E4%BA%BA/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%BA%B2%E4%BA%BA/</guid>
+      <description>亲人</description>
+    </item>
+    <item>
+      <title>English</title>
+      <link>http://localhost:1313/tags/english/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/english/</guid>
+      <description>English</description>
+    </item>
+    <item>
+      <title>北京</title>
+      <link>http://localhost:1313/tags/%E5%8C%97%E4%BA%AC/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8C%97%E4%BA%AC/</guid>
+      <description>北京</description>
+    </item>
+    <item>
+      <title>城市</title>
+      <link>http://localhost:1313/tags/%E5%9F%8E%E5%B8%82/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%9F%8E%E5%B8%82/</guid>
+      <description>城市</description>
+    </item>
+    <item>
+      <title>深圳</title>
+      <link>http://localhost:1313/tags/%E6%B7%B1%E5%9C%B3/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B7%B1%E5%9C%B3/</guid>
+      <description>深圳</description>
+    </item>
+    <item>
+      <title>杭州</title>
+      <link>http://localhost:1313/tags/%E6%9D%AD%E5%B7%9E/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%9D%AD%E5%B7%9E/</guid>
+      <description>杭州</description>
+    </item>
+    <item>
+      <title>贵阳</title>
+      <link>http://localhost:1313/tags/%E8%B4%B5%E9%98%B3/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B4%B5%E9%98%B3/</guid>
+      <description>贵阳</description>
+    </item>
+  </channel>
+</rss>
