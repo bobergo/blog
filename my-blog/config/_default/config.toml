@@ -32,7 +32,7 @@ googleAnalytics = "G-PEDMYR1V0K"
   priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "archives", "offline", "search"]
 
 [related]
   threshold = 0
