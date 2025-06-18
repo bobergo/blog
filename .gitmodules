@@ -4,6 +4,3 @@
 [submodule "my-blog-3/themes/salinger"]
 	path = my-blog-3/themes/salinger
 	url = https://github.com/jacksalici/salinger-theme.git
-[submodule "my-blog/themes/FixIt"]
-	path = my-blog/themes/FixIt
-	url = https://github.com/hugo-fixit/FixIt.git
